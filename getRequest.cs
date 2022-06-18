@@ -13,6 +13,12 @@ public class persona
          public object CedulaAnterior { get; set; } = "";
          public bool ok { get; set; } = false;
          public string foto { get; set; } = "";
-         
+         public int edad(){
+                  var FechaNacimiento = DateTime.Parse(this.FechaNacimiento);
+                  var FechaActual = DateTime.Now;
+
+                  int edad = FechaActual.Year - FechaNacimiento.Year;
+                  return edad;
+         }
 }
 
