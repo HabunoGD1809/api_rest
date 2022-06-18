@@ -1,0 +1,17 @@
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\bin\Debug\net6.0\api_rest.exe
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\bin\Debug\net6.0\api_rest.deps.json
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\bin\Debug\net6.0\api_rest.runtimeconfig.json
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\bin\Debug\net6.0\api_rest.dll
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\bin\Debug\net6.0\api_rest.pdb
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.csproj.AssemblyReference.cache
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.AssemblyInfoInputs.cache
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.AssemblyInfo.cs
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.csproj.CoreCompileInputs.cache
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.dll
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\refint\api_rest.dll
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.pdb
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.genruntimeconfig.cache
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\ref\api_rest.dll
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HabonoXboX\Desktop\Fundamentos\Examen_1\api_rest\obj\Debug\net6.0\api_rest.csproj.CopyComplete
