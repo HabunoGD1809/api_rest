@@ -19,7 +19,7 @@ try{
          Console.WriteLine($"{persona.edad()} a\u00f1os");
 
          //read html
-         string html = System.IO.File.ReadAllText("layout.html");
+         string html = System.IO.File.ReadAllText("Layout.html");
 
          //web browser
          html = html.Replace("{foto}", persona.foto);
@@ -28,9 +28,8 @@ try{
          html = html.Replace("{fechaNacimiento}", persona.FechaNacimiento);
          html = html.Replace("{edad}", persona.edad().ToString());
 
-         System.IO.File.WriteAllText("layout.html", html);
-
          //write html
+         System.IO.File.WriteAllText("Layout.html", html);
          var process = new System.Diagnostics.ProcessStartInfo();
          process.UseShellExecute = true;
          process.FileName = "layout.html";
