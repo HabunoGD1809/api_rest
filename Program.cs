@@ -1,6 +1,5 @@
 ﻿using Newtonsoft.Json;
 
-//debes poner un comentario con tu matricula, nombre completo y fecha en la cual estas haciendo ese vídeo
 //2022-09-01, Franklin Joel Valdez De Los Santos, Sabado 18 de Junio de 2022
 
 try{
