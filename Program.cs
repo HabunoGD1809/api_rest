@@ -9,7 +9,7 @@ try{
          var client = new HttpClient();
          var jsonResponse = await client.GetStringAsync($"https://api.adamix.net/apec/cedula/{cedula}");
          Console.WriteLine($"Un momento por favor...{Environment.NewLine}");
-         var persona = JsonConvert.DeserializeObject<persona>(jsonResponse);
+         persona persona = JsonConvert.DeserializeObject<persona>(jsonResponse)?? new persona();
 
          //console
          Console.WriteLine(persona.foto);
@@ -38,5 +38,25 @@ try{
 
 }
 catch(Exception e){
-    Console.WriteLine($"Ha ocurrido un error IMAGEN: {e.Message}");
+    Console.WriteLine($@"
+    
+Ha ocurrido un error 
+        _..._
+      .'     '.      _
+     /    .----\   _/ \
+   .-|   /:.   |  |   |
+   |  \  |:.   /.-'-./
+   | .-'-;:__.'    =/
+   .'=  *=|Joel _.='
+  /   _.  |    ;
+ ;-.-'|    \   |
+/   | \    _\  _\
+\__/'._;.  ==' ==\
+         \    \   |
+         /    /   /
+         /-._/-._/
+         \   `\  \
+          `-._/._/
+         
+         {e.Message}");
 }
